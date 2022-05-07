@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Trioltz
+- 👀 I’m interested in Python and Machine Learning
+- 🌱 I’m currently learning Data Analysis and Visualization
+- I'm currently studying programming and have completed few cources
